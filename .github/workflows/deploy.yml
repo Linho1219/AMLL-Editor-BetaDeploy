@@ -38,7 +38,7 @@ jobs:
         run: pnpm install
       - name: Build with Vite
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          VITE_BUILD_CHANNEL: BETA
         run: pnpm build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
