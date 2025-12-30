@@ -1,8 +1,10 @@
+<img src="https://raw.githubusercontent.com/Linho1219/AMLL-Editor/refs/heads/main/icons/beta/brand.svg" width="80px" />
+
 # AMLL Editor Beta Deployment
 
-服务地址：<https://beta-editor.amll.dev/>
+地址：<https://beta-editor.amll.dev/>
 
-本仓库用于部署源仓库 [AMLL Editor](https://github.com/Linho1219/AMLL-Editor) 的 `dev` 分支，随开发进度即时更新。
+本仓库不含源码，仅用于部署源仓库 [AMLL Editor](https://github.com/Linho1219/AMLL-Editor) 的 `dev` 分支，随开发进度即时更新。
 测试版主色为 ![Orange](https://img.shields.io/badge/Orange-F97316) 橙黄色，不同于稳定版的 ![Emerald](https://img.shields.io/badge/Emerald-10B981) 翡翠绿，以示区分。
 
 > [!warning]
