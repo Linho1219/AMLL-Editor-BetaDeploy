@@ -1,6 +1,8 @@
 <img src="https://raw.githubusercontent.com/Linho1219/AMLL-Editor/refs/heads/main/icons/beta/brand.svg" width="80px" />
 
-# AMLL Editor Beta Deployment
+# ~~AMLL Editor Beta Deployment~~
+
+**AMLL Editor 稳定版和开发版均已迁移至 CloudFlare Pages 部署，此仓库已弃用。**
 
 地址：<https://beta-editor.amll.dev/>
 
